@@ -1,1 +1,4 @@
+The dataset used in this project was downloaded from the following URL:
 https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
+
+This dataset includes chest X-ray images categorized into COVID-19, viral pneumonia, and normal conditions. The images are used to train and evaluate a convolutional neural network (CNN) model for COVID-19 diagnosis. 
