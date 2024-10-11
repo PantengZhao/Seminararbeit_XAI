@@ -1,4 +1,5 @@
-# COVID-19 Diagnosis with Explainable AI (XAI)
+# Improving Interpretability of Deep Learn-ing in COVID-19 Diagnosis with LIME and SHAP
+
 
 This project aims to build a convolutional neural network (CNN) for COVID-19 diagnosis using chest X-ray images. The model is developed using the VGG16 architecture with transfer learning, and its predictions are explained using two interpretability methods: LIME (Local Interpretable Model-Agnostic Explanations) and SHAP (SHapley Additive exPlanations).
 
